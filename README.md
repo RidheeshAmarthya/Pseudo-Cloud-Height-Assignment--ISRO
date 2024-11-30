@@ -42,7 +42,7 @@ This project visualizes cloud heights using temperature data from an HDF5 file. 
 ## Usage
 
 1. **Prepare your data:**
-   Ensure you have an HDF5 file (`test.h5`) containing the necessary datasets (`IMG_TIR1_TEMP`, `IMG_TIR1`, `Latitude`, `Longitude`). These files can be found on MOSDAC.
+   Ensure you have an HDF5 file (`3DIMG_01JUN2022_0000_L1B_STD.h5.h5`) containing the necessary datasets (`IMG_TIR1_TEMP`, `IMG_TIR1`, `Latitude`, `Longitude`). These files can be found on MOSDAC.
 
 2. **Run the script:**
    Execute the main script to generate the visualization:
