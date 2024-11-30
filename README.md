@@ -1,8 +1,10 @@
 # Pseudo-Cloud-Height
 Data Processing from INSAT 3D 3DR to get cloud height based on lapse rate
 
-Requires 3DIMG_01AUG2022_0000_L1B_STD_V01R00.h5 from MOSDAC to run
-
+Requires 3DIMG_01AUG2022_0000_L1B_STD_V01R00.h5 from MOSDAC to run, get it from here!
+ ```bash
+https://drive.google.com/file/d/1rx52MuekrAtYAAIOTwgApud0S9IsDXAA/view?usp=sharing
+```
 
 ```markdown
 # Pseudo-Cloud-Height Visualization
