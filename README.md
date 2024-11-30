@@ -6,7 +6,7 @@ Requires 3DIMG_01AUG2022_0000_L1B_STD_V01R00.h5 from MOSDAC to run, get it from 
 https://drive.google.com/file/d/1rx52MuekrAtYAAIOTwgApud0S9IsDXAA/view?usp=sharing
 ```
 
-```markdown
+
 # Pseudo-Cloud-Height Visualization
 
 This project visualizes cloud heights using temperature data from an HDF5 file. It utilizes PyVista for 3D plotting and visualization, allowing users to interactively explore cloud height data with a textured base image representing Earth.
