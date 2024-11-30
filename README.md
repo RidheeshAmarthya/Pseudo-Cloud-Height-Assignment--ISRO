@@ -77,9 +77,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ```
-
-### Additional Notes:
-
-- Adjust paths and URLs as needed based on where your code and resources are hosted.
-- Include any additional setup instructions if your project has more complex requirements or configurations.
-- Ensure that any example data or files referenced in the README are available in your repository or provide instructions on how to obtain them.
