@@ -187,7 +187,7 @@ import h5py
 import pyvista as pv
 
 # Load the .h5 file
-fn = '/Users/kali/Desktop/temp-git/Pseudo-Cloud-Height/test.h5'
+fn = '3DIMG_01JUN2022_0000_L1B_STD.h5'
 with h5py.File(fn, 'r') as f:
     TIR1_TEMP = f['IMG_TIR1_TEMP'][:]
     TIR1 = f['IMG_TIR1'][:]
@@ -232,7 +232,7 @@ plotter_clouds = pv.Plotter()
 plotter_clouds.add_points(point_cloud, color="white", opacity=0.1)  # Set color to grey and adjust opacity
 
 # Path to your image file for texture
-image_path = '/Users/kali/Desktop/temp-git/Pseudo-Cloud-Height/earth.png'  # Update this path to your actual image location
+image_path = 'earth.png'  # Update this path to your actual image location
 
 if os.path.isfile(image_path):
     # Create a plane and apply texture if image exists
