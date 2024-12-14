@@ -11,6 +11,10 @@ https://drive.google.com/file/d/1rx52MuekrAtYAAIOTwgApud0S9IsDXAA/view?usp=shari
 
 This project visualizes cloud heights using temperature data from an HDF5 file. It utilizes PyVista for 3D plotting and visualization, allowing users to interactively explore cloud height data with a textured base image representing Earth.
 
+## Screenshots
+<img src="https://imgur.com/uvnPKLu.png" alt="Cloud Screenshot 1">
+<img src="https://imgur.com/l6E08sq.png" alt="Cloud Screenshot 2">
+
 ## Features
 
 - Visualizes cloud heights as a 3D point cloud.
